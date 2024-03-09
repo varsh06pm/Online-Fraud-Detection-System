@@ -1,1 +1,15 @@
 # Online-Fraud-Detection-System
+Online transaction fraud detection aims to prevent fraudulent activities during digital financial transactions, ensuring online financial security.
+The purpose of the Online Transaction Fraud Detection system is to establish a robust and secure environment for digital financial transactions, safeguarding the integrity of online financial activities and ensuring the security of these transactions.
+The system aims to prevent and mitigate fraudulent activities by employing advanced detection techniques and continuous monitoring. By focusing on unauthorized transaction detection, the system aims to thwart malicious activities that could lead to financial losses.
+
+# Product Scope
+Unauthorized Transaction Detection: The primary objective is to detect and prevent unauthorized transactions during digital financial activities. 
+Prevention of Financial Losses: The system aims to prevent financial losses resulting from fraudulent activities, ensuring the integrity of online transactions.
+Safeguarding User Accounts and Information: Ensuring the security of user accounts and information is a critical objective to maintain trust and confidence in the online platform.
+
+# Objectives
+The system deals with the implementation of 3 main objectives that are listed below:
+1. Classification of Transactions:  The transactions will be classified based on the model’s output probabilities.
+2. Real-Time or Batch Processing:  Processing the new transactions in real-time or in batches. The trained model can be applied to these transactions to predict whether they are fraudulent.
+3. Continuous Monitoring:  Set up alerts or notifications to flag suspicious transactions.
