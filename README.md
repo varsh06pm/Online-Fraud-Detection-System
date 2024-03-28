@@ -5,7 +5,9 @@ The system aims to prevent and mitigate fraudulent activities by employing advan
 
 # Product Scope
 Unauthorized Transaction Detection: The primary objective is to detect and prevent unauthorized transactions during digital financial activities. 
+
 Prevention of Financial Losses: The system aims to prevent financial losses resulting from fraudulent activities, ensuring the integrity of online transactions.
+
 Safeguarding User Accounts and Information: Ensuring the security of user accounts and information is a critical objective to maintain trust and confidence in the online platform.
 
 # Objectives
