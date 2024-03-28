@@ -17,7 +17,9 @@ The system deals with the implementation of 3 main objectives that are listed be
 
 # Dataset used
 Credit card fraud detection dataset from kaggle.
+
 This is the link for the dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Note: Due to unavailability of real time dataset the existing dataset is manipulated to test the trained model.Dataset manipulation is done with python script which is avalaible in the jupyter notebook file
 
 Please refer the jupyter notebook file for implementations of the objectives.
