@@ -11,7 +11,7 @@ Prevention of Financial Losses: The system aims to prevent financial losses resu
 Safeguarding User Accounts and Information: Ensuring the security of user accounts and information is a critical objective to maintain trust and confidence in the online platform.
 
 # Objectives
-The objectives are implemented using XGBoost Model and trained to use it on the dummy dataset created(details mentioned in the # Dataset used)
+The objectives are implemented using XGBoost Open-Source software library(ML algorithm) and trained to use it on the dummy dataset created(details mentioned in the # Dataset used)
 The system deals with the implementation of 3 main objectives that are listed below:
 1. Classification of Transactions:  The transactions will be classified based on the model’s output probabilities.
 2. Real-Time or Batch Processing:  Processing the new transactions in real-time or in batches. The trained model can be applied to these transactions to predict whether they are fraudulent.
